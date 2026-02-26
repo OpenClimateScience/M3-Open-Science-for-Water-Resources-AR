@@ -1,9 +1,7 @@
 <div dir="rtl" align="right">
 
 <p align="right">
-<a href="https://doi.org/10.5281/zenodo.16896539">
-<img src="https://zenodo.org/badge/867199973.svg" alt="DOI">
-</a>
+<a href="https://doi.org/10.5281/zenodo.18793068"><img src="https://zenodo.org/badge/1158043413.svg" alt="DOI"></a>
 </p>
 
 <h1 align="right">
